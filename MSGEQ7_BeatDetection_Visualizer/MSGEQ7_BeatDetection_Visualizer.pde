@@ -1,6 +1,6 @@
 /* MSGEQ7 Beat Detection Visualizer (Modified code from Trace)
  * Expects a serial message of 7 integers separated by commas, with a newline at the end.
- * The numbers are separated, and the values are used as colors for 7 rectangles.
+ * The numbers are separated by the program, and the values are used as colors for 7 rectangles.
  * The first number corresponds to the leftmost rectangle, the final number to the rightmost rectangle.
  *
  * By Daniel Winker
