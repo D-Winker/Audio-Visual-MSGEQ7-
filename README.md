@@ -20,7 +20,7 @@ Using the song [Drums Over London by Disco Zombies (CC BY-NC-ND 3.0)](https://fr
 https://github.com/D-Winker/Audio-Visual-MSGEQ7-/assets/18094417/ffc4ab8b-66e3-4304-a2d0-38201617ca6f
   
 #### The hardware  
-An Arduino dev board, a regulator for the Arduino, two analog power amps, some speakers from a broken TV, a bunch of WS2812 LEDs, and two power supplies - because that was the easiest way to keep the LED's PWM noise out of the speakers, all shoved into the shell of a broken XBOX360.   
+An Arduino dev board, a regulator for the Arduino, two MSGEQ7's, two analog power amps, some speakers from a broken TV, a bunch of WS2812 LEDs, and two power supplies - because that was the easiest way to keep the LED's PWM noise out of the speakers, all shoved into the shell of a broken XBOX360.   
   
 <img src="Hardware.jpg">  
   
